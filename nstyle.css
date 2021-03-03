@@ -1,0 +1,61 @@
+body, 
+html{
+	background: url("laptop.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+.container {
+	height: 100%;
+	padding: 7rem 0rem 0rem 0rem;
+}
+
+h1{
+   font-size: 2.5rem;
+   color: #ced7e1;
+   border-bottom: 2px solid white;
+   border-style: 
+
+	
+}
+
+.buffer {
+
+	height: 18rem;
+}
+
+hr {
+
+	border-color: #ee4409;
+	size: 3px;
+	max-width: 65px;
+}
+.btn{
+	font-weight: 700;
+	border-radius:300px;
+	text-transform:uppercase;
+    padding: 1em 2em;
+    border-color:#ee4409;
+    align-items: baseline;
+    
+
+    
+
+}
+.btn-primary{
+   background-color: #ee4409;
+   
+
+}
+
+.btn:hover{
+
+	background-color: #fd7e14;
+    border-color:#ee4409;
+    border-width: 2px;
+
+}
+
